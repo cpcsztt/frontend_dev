@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Little Lemon Restaurant Reservation Application
+
+This is a showcase project for "Little Lemon Restaurant Reservation", specifically for Meta Frontend Cetificate. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
