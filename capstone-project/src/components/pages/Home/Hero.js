@@ -11,8 +11,9 @@ const Hero = () => {
           <h1>Little Lemon</h1>
           <h2>Chicago</h2>
           <p>
-            We are a family owned Mediterranean restaurant, 
-            focused on traditional recipes served with a modern twist.
+          Welcome to Little Lemon 🍋, a family-owned Mediterranean restaurant in Chicago. 
+          Indulge in our authentic recipes, crafted with a modern twist. 😋
+          Experience the flavors of the Mediterranean like never before. 
           </p>
           <Link className="button-primary" to={pages.get('bookings').path}>
             Reserve a Table
