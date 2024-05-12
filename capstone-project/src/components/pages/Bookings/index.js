@@ -27,7 +27,7 @@ const Bookings = () => {
 
   return (
     <div className="bookings">
-      <h2>Table reservation</h2>
+      <h2>Table Reservation</h2>
       <BookingForm 
         availableTimes={availableTimes} 
         dispatchOnDateChange={dispatchOnDateChange} 

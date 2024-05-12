@@ -1,6 +1,6 @@
 import {
   faFacebook,
-  faTwitter,
+  faTwitter as faX,
   faInstagram,
   faYoutube
 } from '@fortawesome/free-brands-svg-icons';
@@ -16,14 +16,14 @@ import logoWhiteImage from './assets/logo-white.png';
 import pages from '../../utils/pages';
 
 const contacts = [
-  { icon: faLocationDot, info: '678 Pisa Ave, Chicago, IL 60611', },
-  { icon: faPhone, info: '(312) 593-2744', },
-  { icon: faEnvelope, info: 'customer@littlelemon.com', },
+  { icon: faLocationDot, info: '666 Happy Ave, Chicago, IL 60001', },
+  { icon: faPhone, info: '(312) 555-1234', },
+  { icon: faEnvelope, info: 'hi@littlelemon.com', },
 ];
 
 const socials = [
   { icon: faFacebook, name: 'facebook', },
-  { icon: faTwitter, name: 'twitter', },
+  { icon: faX, name: 'X', },
   { icon: faInstagram, name: 'instagram', },
   { icon: faYoutube, name: 'youtube', },
 ];

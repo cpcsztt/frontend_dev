@@ -22,7 +22,7 @@ const BookingForm = ({
   const [
     numberOfGuests, 
     setNumberGuests
-  ] = useState(minimumNumberOfGuests);
+  ] = useState(2);
   const [occasion, setOccasion] = useState(occasions[0]);
 
   const isDateValid = () => date !== '';
@@ -128,7 +128,7 @@ const BookingForm = ({
         type="submit" 
         disabled={!areAllFieldsValid()}
       >
-        Make your reservation
+        Reserve Now
       </button>
     </form>
   );
